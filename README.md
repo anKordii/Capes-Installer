@@ -18,7 +18,8 @@ Jest to mój pierwszy program na windowsa więc mogą znaleźć się błędy w k
 Its my first windows application, so bugs may be find inside of it 😔
 
 📍 Jeden istniejący o którym wiem / One of the existing ones that I know of
-- Program musi być zainstalowany na dysku gdzie znajduje się windows inaczej nie może dodać linijki kodu \ Application need be installed on disk where windows is installed
+- Program musi być zainstalowany na dysku gdzie znajduje się windows inaczej nie może dodać linijki kodu 
+- Application need be installed on disk where windows is installed
 
 ### 📍 Jak to działa? / How it works?
 
