@@ -1,0 +1,27 @@
+body {
+  background-color: #181818;
+}
+
+.navbar-light .navbar-brand {
+  font-size: 1rem;
+  margin-right: 0;
+}
+
+.navbar.navbar-light.navbar-expand-md.navigation-clean .right-buttons {
+  margin: .25rem;
+  cursor: pointer;
+  background-color: #1f1f1f;
+  border: 2px solid #2b2b2b;
+  padding-right: .80rem;
+  padding-left: .85rem;
+  padding-top: .30rem;
+  padding-bottom: .55rem;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.navbar.navbar-light.navbar-expand-md.navigation-clean .right-buttons:hover {
+  background-color: #dc3545;
+}
+
