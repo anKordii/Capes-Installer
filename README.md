@@ -8,8 +8,8 @@
 ### 📬 Kontakt / 📬 Contact
 
 - GitHub: [github.com/ankordii][github]
-- Site: [https://xayooindustries.us/kontakt][site]
-- E-mail: support@xayooindustries.us
+- Site: [https://beyondlabs.pl/][site]
+- E-mail: tonieholak@beyondlabs.pl
 
 ### ⚡ Ważne / Important ⚡
 
@@ -36,4 +36,4 @@ Working on <strong>badlion, blazingpack, vanilla optifine</strong>
 ![design](https://i.imgur.com/FOPeXOg.png)
 
 [github]: https://github.com/ankordii
-[site]: https://xayooindustries.us/kontakt
+[site]: https://beyondlabs.pl/
