@@ -8,8 +8,8 @@
 ### 📬 Kontakt / 📬 Contact
 
 - GitHub: [github.com/ankordii][github]
-- Site: [https://beyondlabs.pl/][site]
-- E-mail: tonieholak@beyondlabs.pl
+- Site: [https://oxynstudios.com/][site]
+- E-mail: zan@uuid.top
 
 ### ⚡ Ważne / Important ⚡
 
@@ -36,4 +36,4 @@ Working on <strong>badlion, blazingpack, vanilla optifine</strong>
 ![design](https://i.imgur.com/FOPeXOg.png)
 
 [github]: https://github.com/ankordii
-[site]: https://beyondlabs.pl/
+[site]: https://oxynstudios.com
